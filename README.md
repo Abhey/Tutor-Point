@@ -19,8 +19,9 @@ An online learning platform for the video tutorials on various courses provided 
    <LI> Able to watch any video of any course. ( Browse and watch any video )
    <LI> Able to like and comment on any video. ( Just like youtube and facebook )
    <LI> Search a particular video on the basis of course name. (Simple string matching )
-      </UL> </LI>
+   </UL> </LI>
 </UL>
+     
      
 # Advanced Features
 * Students can subscribe to a teacher. ( Students would get notification when a new video is uploaded by the teacher )
