@@ -3,23 +3,23 @@ An online learning platform for the video tutorials on various courses provided 
 
 # Basic Features
 <UL>
-<LI> Create a student/teacher account.
-<LI> Panel for a teacher account to manage his/her content.
-<LI> Teacher account features:
+   <LI> Create a student/teacher account. </LI>
+   <LI> Panel for a teacher account to manage his/her content. </LI>
+   <LI> Teacher account features:
 <UL>
-   <LI> Create a course ( group of videos ). like CS1202 or Cryptography on type 
-   <LI> Divide a course into subtopics. ( Analogous to chapter in the book )
-   <LI> Upload one or more videos into one subtopic. ( Like topics in the chapter )
-   <LI> Delete any video. 
-</UL>
-<LI> Able to track statistics of each video ( Likes and comments ).
-<LI> Add/Delete the comments. ( Admin must have right to delete any comment, user would have right for his comment only )
+   <LI> Create a course ( group of videos ). like CS1202 or Cryptography on type </LI>
+   <LI> Divide a course into subtopics. ( Analogous to chapter in the book ) </LI>
+   <LI> Upload one or more videos into one subtopic. ( Like topics in the chapter ) </LI>
+   <LI> Delete any video. </LI>
+      </UL> </LI>
+   <LI> Able to track statistics of each video ( Likes and comments ). </LI>
+<LI> Add/Delete the comments. ( Admin must have right to delete any comment, user would have right for his comment only ) </LI>
 <LI> Student account features:
   <UL>
    <LI> Able to watch any video of any course. ( Browse and watch any video )
    <LI> Able to like and comment on any video. ( Just like youtube and facebook )
    <LI> Search a particular video on the basis of course name. (Simple string matching )
-  </UL>
+      </UL> </LI>
 </UL>
      
 # Advanced Features
