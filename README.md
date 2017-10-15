@@ -11,7 +11,7 @@ An online learning platform for the video tutorials on various courses provided 
    <LI> Divide a course into subtopics. ( Analogous to chapter in the book ) </LI>
    <LI> Upload one or more videos into one subtopic. ( Like topics in the chapter ) </LI>
    <LI> Delete any video. </LI>
-   <LI> Able to track statistics of each video ( Likes and comments ). </LI> </UL>
+   <LI> Able to track statistics of each video ( Likes and comments ). </LI> </UL> </LI>
 <LI> Add/Delete the comments. ( Admin must have right to delete any comment, user would have right for his comment only ) </LI>
 <LI> Student account features:
   <UL>
