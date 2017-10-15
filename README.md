@@ -11,18 +11,15 @@ An online learning platform for the video tutorials on various courses provided 
    <LI> Divide a course into subtopics. ( Analogous to chapter in the book ) </LI>
    <LI> Upload one or more videos into one subtopic. ( Like topics in the chapter ) </LI>
    <LI> Delete any video. </LI>
-      </UL> </LI>
-   <LI> Able to track statistics of each video ( Likes and comments ). </LI>
+   <LI> Able to track statistics of each video ( Likes and comments ). </LI> </UL>
 <LI> Add/Delete the comments. ( Admin must have right to delete any comment, user would have right for his comment only ) </LI>
 <LI> Student account features:
   <UL>
-   <LI> Able to watch any video of any course. ( Browse and watch any video )
-   <LI> Able to like and comment on any video. ( Just like youtube and facebook )
-   <LI> Search a particular video on the basis of course name. (Simple string matching )
+     <LI> Able to watch any video of any course. ( Browse and watch any video ) </LI>
+     <LI> Able to like and comment on any video. ( Just like youtube and facebook ) </LI>
+     <LI> Search a particular video on the basis of course name. (Simple string matching ) </LI>
    </UL> </LI>
 </UL>
-     
-     
 <H1> Advanced Features </H1>
 <UL>
 <LI> Students can subscribe to a teacher. ( Students would get notification when a new video is uploaded by the teacher )
