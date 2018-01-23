@@ -47,8 +47,8 @@ An online learning platform for the video tutorials on various courses provided 
 
 * Now you need to import database to your system.
 * Download TutorPoint.sql to your system.
-* Open MySql workbench in your system and import TutorPoint.sql and set database name TutorPoint.
-( If you love using cli just like me, then execute the following command **mysql -u root -p TutorPoint < TutorPoint.sql** and you are all set. )
+* Open MySql workbench in your system and import TutorPoint.sql and set database name tutor.
+( If you love using cli just like me, then execute the following command **mysql -u root -p tutor < TutorPoint.sql** and you are all set. )
    
 * To run the client side of application run Login.java file.
 * Now you are good to go start contributing.
