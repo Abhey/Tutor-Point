@@ -36,7 +36,7 @@ An online learning platform for the video tutorials on various courses provided 
 * Download the source code from https://github.com/Abhey/Tutor-Point
 * Extract the content of zip file.
 
-( If you are confortable using git then you can also clone the repo and skip above two steps )
+( If you are comfortable using git then you can also clone the repo and skip above two steps )
 
 * Open the project in netbeans or any other IDE you like (Project can be found under tutorPoint directory).
 * Add all jar files to project ( All the dependency can be found in dependency directory ).
