@@ -33,25 +33,35 @@ An online learning platform for the video tutorials on various courses provided 
 
 <H1>Note for contributors</H1>
 
-* Download the source code from https://github.com/Abhey/Tutor-Point
-* Extract the content of zip file.
-
+<UL>
+   <LI>Download the source code from https://github.com/Abhey/Tutor-Point</LI>
+   <LI>Extract the content of zip file.</LI>
+</UL>
+</BR>
 ( If you are comfortable using git then you can also clone the repo and skip above two steps )
-
-* Open the project in netbeans or any other IDE you like (Project can be found under tutorPoint directory).
-* Add all jar files to project ( All the dependency can be found in dependency directory ).
-
-* Install vsftpd in your Linux distro ( execute command sudo apt-get install vsftpd for ubuntu ).
-* Run the server first by executing server.java .
-* When prompted for your username and password enter the your system username and system password. ( This is only needed to start ftp server in sudo mode ).
-
-* Now you need to import database to your system.
-* Download TutorPoint.sql to your system.
-* Open MySql workbench in your system and import TutorPoint.sql and set database name tutor.
-( If you love using cli just like me, then execute the following command **mysql -u root -p tutor < TutorPoint.sql** and you are all set. )
-   
-* To run the client side of application run Login.java file.
-* Now you are good to go start contributing.
+</BR>
+<UL>
+   <LI>Open the project in netbeans or any other IDE you like (Project can be found under tutorPoint directory).</LI>
+   <LI>Add all jar files to project ( All the dependency can be found in dependency directory ).</LI>
+</UL>
+</BR>
+<UL>
+   <LI>Install vsftpd in your Linux distro ( execute command sudo apt-get install vsftpd for ubuntu ).</LI>
+   <LI>Run the server first by executing server.java .</LI>
+   <LI>When prompted for your username and password enter the your system username and system password. ( This is only needed to start ftp server in sudo mode ).</LI>
+</UL>
+</BR>
+<UL>
+   <LI>Now you need to import database to your system.</LI>
+   <LI>Download TutorPoint.sql to your system.</LI>
+   <LI>Open MySql workbench in your system and import TutorPoint.sql and set database name tutor.
+( If you love using cli just like me, then execute the following command <B>mysql -u root -p tutor < TutorPoint.sql</B> and you are all set. )</LI>
+</UL>
+</BR>
+<UL>
+   <LI>To run the client side of application run Login.java file.</LI>
+   <LI>Now you are good to go start contributing.</LI>
+</UL>
 
 Note: Currently tutor point works only on linux based operating systems.
 
