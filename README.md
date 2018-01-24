@@ -37,7 +37,6 @@ An online learning platform for the video tutorials on various courses provided 
    <LI>Download the source code from https://github.com/Abhey/Tutor-Point</LI>
    <LI>Extract the content of zip file.</LI>
 </UL>
-</BR>
 ( If you are comfortable using git then you can also clone the repo and skip above two steps )
 </BR>
 <UL>
