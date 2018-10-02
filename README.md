@@ -66,3 +66,7 @@ Note: Currently tutor point works only on linux based operating systems.
 
 # Contact
 1. Abhey Rana - abheyr@acm.org
+
+# Contribute
+
+Feel free to contribute to project.PR's are welcome.
