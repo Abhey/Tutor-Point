@@ -136,7 +136,7 @@ public class server {
 class listenThread extends Thread{
     
     public java.net.Socket sock;
-    public static final Connection c = mySqlConnect.connection("root","uselesscoder");
+    public static final Connection c = mySqlConnect.connection(GetPropertiesValues.getUserName(),GetPropertiesValues.getMysqlPassword());
     
     public listenThread(Socket sock){
         this.sock = sock;
